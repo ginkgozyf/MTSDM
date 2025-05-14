@@ -1,0 +1,15 @@
+{"time":"2025-04-02T22:12:48.515832998+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/root/myWorkPlace/diffmts/models/source-Diff-MTS/wandb/offline-run-20250402_221248-tnd26gt2/logs/debug-core.log"}
+{"time":"2025-04-02T22:12:48.619964286+08:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-02T22:12:48.620114865+08:00","level":"INFO","msg":"created new stream","id":"tnd26gt2"}
+{"time":"2025-04-02T22:12:48.620141791+08:00","level":"INFO","msg":"stream: started","id":"tnd26gt2"}
+{"time":"2025-04-02T22:12:48.620175473+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"tnd26gt2"}
+{"time":"2025-04-02T22:12:48.620185085+08:00","level":"INFO","msg":"sender: started","stream_id":"tnd26gt2"}
+{"time":"2025-04-02T22:12:48.620225536+08:00","level":"INFO","msg":"handler: started","stream_id":"tnd26gt2"}
+{"time":"2025-04-02T22:12:48.624925533+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-02T22:13:22.765196641+08:00","level":"INFO","msg":"stream: closing","id":"tnd26gt2"}
+{"time":"2025-04-02T22:13:22.765231635+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-02T22:13:22.765273239+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-02T22:13:22.765341065+08:00","level":"INFO","msg":"handler: closed","stream_id":"tnd26gt2"}
+{"time":"2025-04-02T22:13:22.765348519+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"tnd26gt2"}
+{"time":"2025-04-02T22:13:22.765362539+08:00","level":"INFO","msg":"sender: closed","stream_id":"tnd26gt2"}
+{"time":"2025-04-02T22:13:22.765466703+08:00","level":"INFO","msg":"stream: closed","id":"tnd26gt2"}

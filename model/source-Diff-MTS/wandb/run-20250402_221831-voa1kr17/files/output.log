@@ -1,0 +1,823 @@
+100%|████| 63/63 [00:03<00:00, 17.76it/s, epoch=0, loss: =1, img shape: =torch.Size([59, 14, 48]), LR=0.002]
+100%|█| 63/63 [00:03<00:00, 20.23it/s, epoch=1, loss: =0.186, img shape: =torch.Size([59, 14, 48]), LR=0.002
+100%|█| 63/63 [00:03<00:00, 18.71it/s, epoch=2, loss: =0.135, img shape: =torch.Size([59, 14, 48]), LR=0.003
+100%|█| 63/63 [00:03<00:00, 19.63it/s, epoch=3, loss: =0.123, img shape: =torch.Size([59, 14, 48]), LR=0.003
+100%|█| 63/63 [00:02<00:00, 22.24it/s, epoch=4, loss: =0.121, img shape: =torch.Size([59, 14, 48]), LR=0.004
+100%|█| 63/63 [00:03<00:00, 20.29it/s, epoch=5, loss: =0.116, img shape: =torch.Size([59, 14, 48]), LR=0.004
+100%|█| 63/63 [00:02<00:00, 21.66it/s, epoch=6, loss: =0.108, img shape: =torch.Size([59, 14, 48]), LR=0.005
+/root/miniconda3/lib/python3.8/site-packages/torch/optim/lr_scheduler.py:1063: UserWarning: To get the last learning rate computed by the scheduler, please use `get_last_lr()`.
+  _warn_get_lr_called_within_step(self)
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 20.54it/s, epoch=7, loss: =0.113, img shape: =torch.Size([59, 14, 48]), LR=0.005
+*******imporove!!!********
+100%|█| 63/63 [00:02<00:00, 21.95it/s, epoch=8, loss: =0.102, img shape: =torch.Size([59, 14, 48]), LR=0.005
+*******imporove!!!********
+100%|█| 63/63 [00:02<00:00, 22.15it/s, epoch=9, loss: =0.103, img shape: =torch.Size([59, 14, 48]), LR=0.004
+*******imporove!!!********
+100%|█| 63/63 [00:02<00:00, 21.84it/s, epoch=10, loss: =0.105, img shape: =torch.Size([59, 14, 48]), LR=0.00
+*******imporove!!!********
+100%|█| 63/63 [00:02<00:00, 21.65it/s, epoch=11, loss: =0.103, img shape: =torch.Size([59, 14, 48]), LR=0.00
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 20.62it/s, epoch=12, loss: =2.46e+5, img shape: =torch.Size([59, 14, 48]), LR=0.
+100%|█| 63/63 [00:02<00:00, 22.13it/s, epoch=13, loss: =0.591, img shape: =torch.Size([59, 14, 48]), LR=0.00
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 20.94it/s, epoch=14, loss: =0.113, img shape: =torch.Size([59, 14, 48]), LR=0.00
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 20.45it/s, epoch=15, loss: =0.104, img shape: =torch.Size([59, 14, 48]), LR=0.00
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 19.77it/s, epoch=16, loss: =0.102, img shape: =torch.Size([59, 14, 48]), LR=0.00
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 20.26it/s, epoch=17, loss: =0.106, img shape: =torch.Size([59, 14, 48]), LR=0.00
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 19.91it/s, epoch=18, loss: =0.0946, img shape: =torch.Size([59, 14, 48]), LR=0.0
+*******imporove!!!********
+100%|█| 63/63 [00:02<00:00, 21.81it/s, epoch=19, loss: =0.0947, img shape: =torch.Size([59, 14, 48]), LR=0.0
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 19.21it/s, epoch=20, loss: =0.0992, img shape: =torch.Size([59, 14, 48]), LR=0.0
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 19.65it/s, epoch=21, loss: =0.104, img shape: =torch.Size([59, 14, 48]), LR=0.00
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 20.82it/s, epoch=22, loss: =0.101, img shape: =torch.Size([59, 14, 48]), LR=0.00
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 19.77it/s, epoch=23, loss: =0.0993, img shape: =torch.Size([59, 14, 48]), LR=0.0
+*******imporove!!!********
+100%|█| 63/63 [00:02<00:00, 22.28it/s, epoch=24, loss: =0.0985, img shape: =torch.Size([59, 14, 48]), LR=0.0
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 20.64it/s, epoch=25, loss: =0.103, img shape: =torch.Size([59, 14, 48]), LR=0.00
+*******imporove!!!********
+100%|█| 63/63 [00:02<00:00, 21.89it/s, epoch=26, loss: =0.0988, img shape: =torch.Size([59, 14, 48]), LR=0.0
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 19.19it/s, epoch=27, loss: =0.0925, img shape: =torch.Size([59, 14, 48]), LR=0.0
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 19.90it/s, epoch=28, loss: =0.0899, img shape: =torch.Size([59, 14, 48]), LR=0.0
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 19.85it/s, epoch=29, loss: =0.101, img shape: =torch.Size([59, 14, 48]), LR=0.00
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 19.20it/s, epoch=30, loss: =0.0951, img shape: =torch.Size([59, 14, 48]), LR=0.0
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 19.68it/s, epoch=31, loss: =0.101, img shape: =torch.Size([59, 14, 48]), LR=0.00
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 18.41it/s, epoch=32, loss: =0.0969, img shape: =torch.Size([59, 14, 48]), LR=0.0
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 20.45it/s, epoch=33, loss: =0.0951, img shape: =torch.Size([59, 14, 48]), LR=0.0
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 18.88it/s, epoch=34, loss: =0.1, img shape: =torch.Size([59, 14, 48]), LR=0.0021
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 20.55it/s, epoch=35, loss: =0.1, img shape: =torch.Size([59, 14, 48]), LR=0.0020
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 19.15it/s, epoch=36, loss: =0.0933, img shape: =torch.Size([59, 14, 48]), LR=0.0
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 20.93it/s, epoch=37, loss: =0.0891, img shape: =torch.Size([59, 14, 48]), LR=0.0
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 20.44it/s, epoch=38, loss: =0.0936, img shape: =torch.Size([59, 14, 48]), LR=0.0
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 18.97it/s, epoch=39, loss: =0.0916, img shape: =torch.Size([59, 14, 48]), LR=0.0
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 20.13it/s, epoch=40, loss: =0.0885, img shape: =torch.Size([59, 14, 48]), LR=0.0
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 20.30it/s, epoch=41, loss: =0.0905, img shape: =torch.Size([59, 14, 48]), LR=0.0
+*******imporove!!!********
+100%|█| 63/63 [00:02<00:00, 21.27it/s, epoch=42, loss: =0.0919, img shape: =torch.Size([59, 14, 48]), LR=0.0
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 20.25it/s, epoch=43, loss: =0.0898, img shape: =torch.Size([59, 14, 48]), LR=0.0
+*******imporove!!!********
+100%|█| 63/63 [00:02<00:00, 21.55it/s, epoch=44, loss: =0.0939, img shape: =torch.Size([59, 14, 48]), LR=0.0
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 20.34it/s, epoch=45, loss: =0.0973, img shape: =torch.Size([59, 14, 48]), LR=0.0
+*******imporove!!!********
+100%|█| 63/63 [00:02<00:00, 22.10it/s, epoch=46, loss: =0.0874, img shape: =torch.Size([59, 14, 48]), LR=0.0
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 20.85it/s, epoch=47, loss: =0.0949, img shape: =torch.Size([59, 14, 48]), LR=0.0
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 20.32it/s, epoch=48, loss: =0.0939, img shape: =torch.Size([59, 14, 48]), LR=0.0
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 20.54it/s, epoch=49, loss: =0.0992, img shape: =torch.Size([59, 14, 48]), LR=0.0
+*******imporove!!!********
+/root/myWorkPlace/diffmts/models/source-Diff-MTS/DiffusionFreeGuidence/TrainCondition.py:96: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  ckpt = torch.load(args.model_path)
+model load weight done.
+499
+498
+497
+496
+495
+494
+493
+492
+491
+490
+489
+488
+487
+486
+485
+484
+483
+482
+481
+480
+479
+478
+477
+476
+475
+474
+473
+472
+471
+470
+469
+468
+467
+466
+465
+464
+463
+462
+461
+460
+459
+458
+457
+456
+455
+454
+453
+452
+451
+450
+449
+448
+447
+446
+445
+444
+443
+442
+441
+440
+439
+438
+437
+436
+435
+434
+433
+432
+431
+430
+429
+428
+427
+426
+425
+424
+423
+422
+421
+420
+419
+418
+417
+416
+415
+414
+413
+412
+411
+410
+409
+408
+407
+406
+405
+404
+403
+402
+401
+400
+399
+398
+397
+396
+395
+394
+393
+392
+391
+390
+389
+388
+387
+386
+385
+384
+383
+382
+381
+380
+379
+378
+377
+376
+375
+374
+373
+372
+371
+370
+369
+368
+367
+366
+365
+364
+363
+362
+361
+360
+359
+358
+357
+356
+355
+354
+353
+352
+351
+350
+349
+348
+347
+346
+345
+344
+343
+342
+341
+340
+339
+338
+337
+336
+335
+334
+333
+332
+331
+330
+329
+328
+327
+326
+325
+324
+323
+322
+321
+320
+319
+318
+317
+316
+315
+314
+313
+312
+311
+310
+309
+308
+307
+306
+305
+304
+303
+302
+301
+300
+299
+298
+297
+296
+295
+294
+293
+292
+291
+290
+289
+288
+287
+286
+285
+284
+283
+282
+281
+280
+279
+278
+277
+276
+275
+274
+273
+272
+271
+270
+269
+268
+267
+266
+265
+264
+263
+262
+261
+260
+259
+258
+257
+256
+255
+254
+253
+252
+251
+250
+249
+248
+247
+246
+245
+244
+243
+242
+241
+240
+239
+238
+237
+236
+235
+234
+233
+232
+231
+230
+229
+228
+227
+226
+225
+224
+223
+222
+221
+220
+219
+218
+217
+216
+215
+214
+213
+212
+211
+210
+209
+208
+207
+206
+205
+204
+203
+202
+201
+200
+199
+198
+197
+196
+195
+194
+193
+192
+191
+190
+189
+188
+187
+186
+185
+184
+183
+182
+181
+180
+179
+178
+177
+176
+175
+174
+173
+172
+171
+170
+169
+168
+167
+166
+165
+164
+163
+162
+161
+160
+159
+158
+157
+156
+155
+154
+153
+152
+151
+150
+149
+148
+147
+146
+145
+144
+143
+142
+141
+140
+139
+138
+137
+136
+135
+134
+133
+132
+131
+130
+129
+128
+127
+126
+125
+124
+123
+122
+121
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+50
+49
+48
+47
+46
+45
+44
+43
+42
+41
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+train_data.shape torch.Size([15931, 48, 14])
+test_data.shape torch.Size([100, 48, 14])
+model_name:DiffUnet  learning_rate:0.002  window_size:48  embedding:48
+
+Epoch [1/30]
+Learning Rate:2.000e-03   Train_Loss:75.862   Dev_loss:43.575   Test_Loss:41.895   Score:64.944   Time:0:00:00
+Learning Rate:2.000e-03   Train_Loss:46.862   Dev_loss:42.460   Test_Loss:40.925   Score:67.444   Time:0:00:01
+Learning Rate:2.000e-03   Train_Loss:43.778   Dev_loss:41.325   Test_Loss:40.086   Score:105.812   Time:0:00:01
+Learning Rate:2.000e-03   Train_Loss:41.746   Dev_loss:41.109   Test_Loss:40.072   Score:145.855   Time:0:00:01
+Learning Rate:2.000e-03   Train_Loss:41.307   Dev_loss:41.186   Test_Loss:39.834   Score:71.338   Time:0:00:01
+
+Epoch [2/30]
+Learning Rate:2.000e-03   Train_Loss:40.989   Dev_loss:40.762   Test_Loss:39.912   Score:172.395   Time:0:00:01
+Learning Rate:2.000e-03   Train_Loss:40.842   Dev_loss:40.547   Test_Loss:39.249   Score:62.545   Time:0:00:01
+Learning Rate:2.000e-03   Train_Loss:40.768   Dev_loss:39.555   Test_Loss:38.708   Score:121.356   Time:0:00:01
+Learning Rate:2.000e-03   Train_Loss:38.989   Dev_loss:38.399   Test_Loss:37.494   Score:75.166   Time:0:00:01
+Learning Rate:2.000e-03   Train_Loss:37.138   Dev_loss:34.978   Test_Loss:34.356   Score:40.876   Time:0:00:01
+
+Epoch [3/30]
+Learning Rate:2.000e-03   Train_Loss:33.184   Dev_loss:31.163   Test_Loss:31.299   Score:62.602   Time:0:00:01
+Learning Rate:2.000e-03   Train_Loss:31.107   Dev_loss:28.716   Test_Loss:27.833   Score:47.708   Time:0:00:02
+Learning Rate:2.000e-03   Train_Loss:28.342   Dev_loss:27.020   Test_Loss:26.546   Score:25.212   Time:0:00:02
+Learning Rate:2.000e-03   Train_Loss:26.713   Dev_loss:26.391   Test_Loss:25.908   Score:47.582   Time:0:00:02
+Learning Rate:2.000e-03   Train_Loss:27.395   Dev_loss:25.147   Test_Loss:24.260   Score:21.835   Time:0:00:02
+
+Epoch [4/30]
+Learning Rate:2.000e-03   Train_Loss:25.579   Dev_loss:25.509   Test_Loss:23.694   Score:13.556   Time:0:00:02
+Learning Rate:2.000e-03   Train_Loss:25.056   Dev_loss:23.575   Test_Loss:22.643   Score:21.250   Time:0:00:02
+Learning Rate:2.000e-03   Train_Loss:23.174   Dev_loss:22.404   Test_Loss:20.725   Score:12.831   Time:0:00:02
+Learning Rate:2.000e-03   Train_Loss:22.692   Dev_loss:21.176   Test_Loss:19.529   Score:8.960   Time:0:00:02
+Learning Rate:2.000e-03   Train_Loss:22.638   Dev_loss:19.976   Test_Loss:19.123   Score:7.722   Time:0:00:02
+
+Epoch [5/30]
+Learning Rate:2.000e-03   Train_Loss:20.351   Dev_loss:19.192   Test_Loss:18.016   Score:6.016   Time:0:00:02
+Learning Rate:2.000e-03   Train_Loss:20.299   Dev_loss:19.253   Test_Loss:17.769   Score:4.688   Time:0:00:02
+Learning Rate:2.000e-03   Train_Loss:19.292   Dev_loss:18.468   Test_Loss:17.818   Score:7.073   Time:0:00:03
+Learning Rate:2.000e-03   Train_Loss:18.841   Dev_loss:18.072   Test_Loss:18.176   Score:8.052   Time:0:00:03
+Learning Rate:2.000e-03   Train_Loss:19.262   Dev_loss:18.272   Test_Loss:16.421   Score:3.991   Time:0:00:03
+
+Epoch [6/30]
+Learning Rate:2.000e-03   Train_Loss:20.281   Dev_loss:17.313   Test_Loss:15.761   Score:3.863   Time:0:00:03
+Learning Rate:2.000e-03   Train_Loss:18.525   Dev_loss:17.872   Test_Loss:16.409   Score:5.355   Time:0:00:03
+Learning Rate:2.000e-03   Train_Loss:18.050   Dev_loss:16.798   Test_Loss:14.985   Score:3.475   Time:0:00:03
+Learning Rate:2.000e-03   Train_Loss:17.447   Dev_loss:16.337   Test_Loss:15.288   Score:4.150   Time:0:00:03
+Learning Rate:2.000e-03   Train_Loss:18.132   Dev_loss:16.546   Test_Loss:14.929   Score:3.648   Time:0:00:03
+
+Epoch [7/30]
+Learning Rate:2.000e-03   Train_Loss:18.014   Dev_loss:15.944   Test_Loss:15.466   Score:4.853   Time:0:00:03
+*******imporove!!!********
+Learning Rate:2.000e-03   Train_Loss:17.009   Dev_loss:16.036   Test_Loss:14.687   Score:3.491   Time:0:00:04
+*******imporove!!!********
+Learning Rate:2.000e-03   Train_Loss:16.710   Dev_loss:16.034   Test_Loss:14.502   Score:3.321   Time:0:00:04
+*******imporove!!!********
+Learning Rate:2.000e-03   Train_Loss:17.291   Dev_loss:15.854   Test_Loss:15.223   Score:3.867   Time:0:00:04
+Learning Rate:2.000e-03   Train_Loss:17.498   Dev_loss:16.043   Test_Loss:15.513   Score:5.466   Time:0:00:04
+
+Epoch [8/30]
+Learning Rate:2.000e-03   Train_Loss:16.773   Dev_loss:16.093   Test_Loss:15.820   Score:5.514   Time:0:00:04
+Learning Rate:2.000e-03   Train_Loss:16.872   Dev_loss:18.504   Test_Loss:18.936   Score:10.186   Time:0:00:04
+Learning Rate:2.000e-03   Train_Loss:17.668   Dev_loss:15.774   Test_Loss:15.095   Score:4.809   Time:0:00:04
+Learning Rate:2.000e-03   Train_Loss:17.251   Dev_loss:16.208   Test_Loss:15.951   Score:5.917   Time:0:00:04
+Learning Rate:2.000e-03   Train_Loss:16.599   Dev_loss:15.498   Test_Loss:14.808   Score:3.984   Time:0:00:04
+
+Epoch [9/30]
+Learning Rate:2.000e-03   Train_Loss:17.623   Dev_loss:15.434   Test_Loss:13.980   Score:3.167   Time:0:00:05
+*******imporove!!!********
+Learning Rate:2.000e-03   Train_Loss:16.411   Dev_loss:15.351   Test_Loss:15.056   Score:4.848   Time:0:00:05
+Learning Rate:2.000e-03   Train_Loss:16.344   Dev_loss:15.656   Test_Loss:15.425   Score:5.288   Time:0:00:05
+Learning Rate:2.000e-03   Train_Loss:16.482   Dev_loss:15.193   Test_Loss:13.908   Score:3.320   Time:0:00:05
+*******imporove!!!********
+Learning Rate:2.000e-03   Train_Loss:16.570   Dev_loss:15.063   Test_Loss:13.800   Score:3.221   Time:0:00:05
+*******imporove!!!********
+
+Epoch [10/30]
+Learning Rate:2.000e-03   Train_Loss:16.403   Dev_loss:15.391   Test_Loss:14.017   Score:3.410   Time:0:00:05
+Learning Rate:2.000e-03   Train_Loss:15.928   Dev_loss:15.460   Test_Loss:15.249   Score:5.126   Time:0:00:05
+Learning Rate:2.000e-03   Train_Loss:17.752   Dev_loss:16.750   Test_Loss:16.247   Score:6.015   Time:0:00:05
+Learning Rate:2.000e-03   Train_Loss:17.113   Dev_loss:16.056   Test_Loss:14.689   Score:3.512   Time:0:00:06
+Learning Rate:2.000e-03   Train_Loss:16.919   Dev_loss:15.310   Test_Loss:14.138   Score:3.210   Time:0:00:06
+
+Epoch [11/30]
+Learning Rate:2.000e-04   Train_Loss:16.798   Dev_loss:14.969   Test_Loss:13.992   Score:3.482   Time:0:00:06
+Learning Rate:2.000e-04   Train_Loss:15.718   Dev_loss:14.909   Test_Loss:13.689   Score:3.176   Time:0:00:06
+*******imporove!!!********
+Learning Rate:2.000e-04   Train_Loss:16.628   Dev_loss:14.891   Test_Loss:13.854   Score:3.376   Time:0:00:06
+Learning Rate:2.000e-04   Train_Loss:15.737   Dev_loss:14.831   Test_Loss:13.767   Score:3.321   Time:0:00:06
+Learning Rate:2.000e-04   Train_Loss:15.647   Dev_loss:14.833   Test_Loss:13.744   Score:3.321   Time:0:00:06
+
+Epoch [12/30]
+Learning Rate:2.000e-04   Train_Loss:15.680   Dev_loss:14.850   Test_Loss:13.626   Score:3.162   Time:0:00:06
+*******imporove!!!********
+Learning Rate:2.000e-04   Train_Loss:16.630   Dev_loss:14.814   Test_Loss:13.722   Score:3.328   Time:0:00:07
+Learning Rate:2.000e-04   Train_Loss:15.696   Dev_loss:14.817   Test_Loss:13.716   Score:3.273   Time:0:00:07
+Learning Rate:2.000e-04   Train_Loss:15.772   Dev_loss:14.869   Test_Loss:14.075   Score:3.728   Time:0:00:07
+Learning Rate:2.000e-04   Train_Loss:16.168   Dev_loss:14.901   Test_Loss:13.572   Score:2.980   Time:0:00:07
+*******imporove!!!********
+
+Epoch [13/30]
+Learning Rate:2.000e-04   Train_Loss:15.651   Dev_loss:14.789   Test_Loss:13.757   Score:3.318   Time:0:00:07
+Learning Rate:2.000e-04   Train_Loss:16.068   Dev_loss:14.810   Test_Loss:14.014   Score:3.676   Time:0:00:07
+Learning Rate:2.000e-04   Train_Loss:15.715   Dev_loss:14.773   Test_Loss:13.801   Score:3.376   Time:0:00:07
+Learning Rate:2.000e-04   Train_Loss:15.782   Dev_loss:14.867   Test_Loss:13.479   Score:2.940   Time:0:00:07
+*******imporove!!!********
+Learning Rate:2.000e-04   Train_Loss:16.611   Dev_loss:14.792   Test_Loss:13.482   Score:3.078   Time:0:00:07
+
+Epoch [14/30]
+Learning Rate:2.000e-04   Train_Loss:16.063   Dev_loss:14.775   Test_Loss:13.649   Score:3.324   Time:0:00:08
+Learning Rate:2.000e-04   Train_Loss:15.962   Dev_loss:14.770   Test_Loss:13.697   Score:3.303   Time:0:00:08
+Learning Rate:2.000e-04   Train_Loss:16.082   Dev_loss:14.782   Test_Loss:13.735   Score:3.339   Time:0:00:08
+Learning Rate:2.000e-04   Train_Loss:16.179   Dev_loss:14.744   Test_Loss:13.790   Score:3.456   Time:0:00:08
+Learning Rate:2.000e-04   Train_Loss:15.345   Dev_loss:14.741   Test_Loss:13.776   Score:3.465   Time:0:00:08
+
+Epoch [15/30]
+Learning Rate:2.000e-04   Train_Loss:16.552   Dev_loss:14.735   Test_Loss:13.546   Score:3.217   Time:0:00:08
+Learning Rate:2.000e-04   Train_Loss:15.381   Dev_loss:15.089   Test_Loss:13.470   Score:2.703   Time:0:00:08
+*******imporove!!!********
+Learning Rate:2.000e-04   Train_Loss:16.723   Dev_loss:14.760   Test_Loss:13.609   Score:3.141   Time:0:00:08
+Learning Rate:2.000e-04   Train_Loss:15.212   Dev_loss:14.836   Test_Loss:14.175   Score:3.925   Time:0:00:09
+Learning Rate:2.000e-04   Train_Loss:15.737   Dev_loss:14.699   Test_Loss:13.541   Score:3.226   Time:0:00:09
+
+Epoch [16/30]
+Learning Rate:2.000e-04   Train_Loss:14.947   Dev_loss:14.781   Test_Loss:13.473   Score:3.095   Time:0:00:09
+Learning Rate:2.000e-04   Train_Loss:16.371   Dev_loss:14.726   Test_Loss:13.674   Score:3.372   Time:0:00:09
+Learning Rate:2.000e-04   Train_Loss:16.344   Dev_loss:14.764   Test_Loss:13.353   Score:2.902   Time:0:00:09
+*******imporove!!!********
+Learning Rate:2.000e-04   Train_Loss:15.089   Dev_loss:14.825   Test_Loss:14.006   Score:3.727   Time:0:00:09
+Learning Rate:2.000e-04   Train_Loss:16.684   Dev_loss:14.896   Test_Loss:13.494   Score:2.861   Time:0:00:09
+
+Epoch [17/30]
+Learning Rate:2.000e-04   Train_Loss:16.265   Dev_loss:14.930   Test_Loss:13.238   Score:2.641   Time:0:00:09
+*******imporove!!!********
+Learning Rate:2.000e-04   Train_Loss:15.633   Dev_loss:15.062   Test_Loss:14.527   Score:4.395   Time:0:00:10
+Learning Rate:2.000e-04   Train_Loss:15.818   Dev_loss:14.756   Test_Loss:13.271   Score:2.829   Time:0:00:10
+Learning Rate:2.000e-04   Train_Loss:15.947   Dev_loss:14.745   Test_Loss:13.515   Score:3.064   Time:0:00:10
+Learning Rate:2.000e-04   Train_Loss:16.091   Dev_loss:14.811   Test_Loss:13.852   Score:3.567   Time:0:00:10
+
+Epoch [18/30]
+Learning Rate:2.000e-04   Train_Loss:15.697   Dev_loss:14.806   Test_Loss:13.340   Score:2.792   Time:0:00:10
+Learning Rate:2.000e-04   Train_Loss:15.948   Dev_loss:14.673   Test_Loss:13.783   Score:3.525   Time:0:00:10
+Learning Rate:2.000e-04   Train_Loss:15.331   Dev_loss:14.657   Test_Loss:13.681   Score:3.447   Time:0:00:10
+Learning Rate:2.000e-04   Train_Loss:16.213   Dev_loss:14.662   Test_Loss:13.409   Score:3.050   Time:0:00:10
+Learning Rate:2.000e-04   Train_Loss:16.078   Dev_loss:15.082   Test_Loss:13.270   Score:2.549   Time:0:00:10
+
+Epoch [19/30]
+Learning Rate:2.000e-04   Train_Loss:16.487   Dev_loss:14.798   Test_Loss:13.914   Score:3.707   Time:0:00:10
+Learning Rate:2.000e-04   Train_Loss:15.218   Dev_loss:14.680   Test_Loss:13.693   Score:3.412   Time:0:00:11
+Learning Rate:2.000e-04   Train_Loss:15.910   Dev_loss:14.879   Test_Loss:13.209   Score:2.636   Time:0:00:11
+*******imporove!!!********
+Learning Rate:2.000e-04   Train_Loss:15.700   Dev_loss:14.646   Test_Loss:13.468   Score:3.180   Time:0:00:11
+Learning Rate:2.000e-04   Train_Loss:16.237   Dev_loss:14.726   Test_Loss:13.746   Score:3.479   Time:0:00:11
+
+Epoch [20/30]
+Learning Rate:2.000e-04   Train_Loss:16.279   Dev_loss:14.654   Test_Loss:13.413   Score:3.031   Time:0:00:11
+Learning Rate:2.000e-04   Train_Loss:15.547   Dev_loss:14.593   Test_Loss:13.513   Score:3.240   Time:0:00:11
+Learning Rate:2.000e-04   Train_Loss:15.790   Dev_loss:14.590   Test_Loss:13.453   Score:3.169   Time:0:00:11
+Learning Rate:2.000e-04   Train_Loss:16.354   Dev_loss:14.604   Test_Loss:13.312   Score:3.065   Time:0:00:11
+Learning Rate:2.000e-04   Train_Loss:14.973   Dev_loss:14.600   Test_Loss:13.340   Score:3.015   Time:0:00:11
+
+Epoch [21/30]
+Learning Rate:2.000e-05   Train_Loss:16.181   Dev_loss:14.591   Test_Loss:13.354   Score:3.041   Time:0:00:11
+Learning Rate:2.000e-05   Train_Loss:15.978   Dev_loss:14.575   Test_Loss:13.417   Score:3.141   Time:0:00:12
+Learning Rate:2.000e-05   Train_Loss:14.939   Dev_loss:14.574   Test_Loss:13.472   Score:3.230   Time:0:00:12
+Learning Rate:2.000e-05   Train_Loss:16.508   Dev_loss:14.575   Test_Loss:13.387   Score:3.133   Time:0:00:12
+Learning Rate:2.000e-05   Train_Loss:15.074   Dev_loss:14.576   Test_Loss:13.359   Score:3.090   Time:0:00:12
+
+Epoch [22/30]
+Learning Rate:2.000e-05   Train_Loss:16.285   Dev_loss:14.573   Test_Loss:13.381   Score:3.121   Time:0:00:12
+Learning Rate:2.000e-05   Train_Loss:15.843   Dev_loss:14.572   Test_Loss:13.416   Score:3.176   Time:0:00:12
+Learning Rate:2.000e-05   Train_Loss:15.703   Dev_loss:14.574   Test_Loss:13.443   Score:3.219   Time:0:00:12
+Learning Rate:2.000e-05   Train_Loss:15.082   Dev_loss:14.576   Test_Loss:13.356   Score:3.081   Time:0:00:12
+Learning Rate:2.000e-05   Train_Loss:15.745   Dev_loss:14.602   Test_Loss:13.302   Score:2.973   Time:0:00:12
+
+Epoch [23/30]
+Learning Rate:2.000e-05   Train_Loss:15.905   Dev_loss:14.578   Test_Loss:13.357   Score:3.073   Time:0:00:12
+Learning Rate:2.000e-05   Train_Loss:14.430   Dev_loss:14.583   Test_Loss:13.560   Score:3.350   Time:0:00:12
+Learning Rate:2.000e-05   Train_Loss:16.101   Dev_loss:14.572   Test_Loss:13.490   Score:3.261   Time:0:00:13
+Learning Rate:2.000e-05   Train_Loss:15.658   Dev_loss:14.585   Test_Loss:13.304   Score:3.005   Time:0:00:13
+Learning Rate:2.000e-05   Train_Loss:16.488   Dev_loss:14.625   Test_Loss:13.221   Score:2.876   Time:0:00:13
+
+Epoch [24/30]
+Learning Rate:2.000e-05   Train_Loss:15.328   Dev_loss:14.570   Test_Loss:13.354   Score:3.087   Time:0:00:13
+Learning Rate:2.000e-05   Train_Loss:15.654   Dev_loss:14.570   Test_Loss:13.470   Score:3.247   Time:0:00:13
+Learning Rate:2.000e-05   Train_Loss:15.990   Dev_loss:14.569   Test_Loss:13.359   Score:3.107   Time:0:00:13
+Learning Rate:2.000e-05   Train_Loss:16.081   Dev_loss:14.574   Test_Loss:13.314   Score:3.045   Time:0:00:13
+Learning Rate:2.000e-05   Train_Loss:15.610   Dev_loss:14.568   Test_Loss:13.343   Score:3.087   Time:0:00:13
+
+Epoch [25/30]
+Learning Rate:2.000e-05   Train_Loss:15.616   Dev_loss:14.565   Test_Loss:13.425   Score:3.191   Time:0:00:13
+Learning Rate:2.000e-05   Train_Loss:16.368   Dev_loss:14.568   Test_Loss:13.334   Score:3.071   Time:0:00:13
+Learning Rate:2.000e-05   Train_Loss:15.222   Dev_loss:14.578   Test_Loss:13.291   Score:3.004   Time:0:00:13
+Learning Rate:2.000e-05   Train_Loss:15.711   Dev_loss:14.571   Test_Loss:13.315   Score:3.037   Time:0:00:14
+Learning Rate:2.000e-05   Train_Loss:15.674   Dev_loss:14.562   Test_Loss:13.409   Score:3.177   Time:0:00:14
+
+Epoch [26/30]
+Learning Rate:2.000e-05   Train_Loss:15.307   Dev_loss:14.568   Test_Loss:13.314   Score:3.055   Time:0:00:14
+Learning Rate:2.000e-05   Train_Loss:15.440   Dev_loss:14.563   Test_Loss:13.345   Score:3.093   Time:0:00:14
+Learning Rate:2.000e-05   Train_Loss:16.375   Dev_loss:14.563   Test_Loss:13.355   Score:3.099   Time:0:00:14
+Learning Rate:2.000e-05   Train_Loss:14.993   Dev_loss:14.565   Test_Loss:13.465   Score:3.232   Time:0:00:14
+Learning Rate:2.000e-05   Train_Loss:16.444   Dev_loss:14.560   Test_Loss:13.365   Score:3.119   Time:0:00:14
+
+Epoch [27/30]
+Learning Rate:2.000e-05   Train_Loss:15.630   Dev_loss:14.562   Test_Loss:13.365   Score:3.144   Time:0:00:14
+Learning Rate:2.000e-05   Train_Loss:15.849   Dev_loss:14.565   Test_Loss:13.318   Score:3.097   Time:0:00:14
+Learning Rate:2.000e-05   Train_Loss:15.534   Dev_loss:14.565   Test_Loss:13.308   Score:3.085   Time:0:00:14
+Learning Rate:2.000e-05   Train_Loss:15.813   Dev_loss:14.576   Test_Loss:13.244   Score:2.980   Time:0:00:15
+Learning Rate:2.000e-05   Train_Loss:15.764   Dev_loss:14.571   Test_Loss:13.272   Score:2.998   Time:0:00:15
+
+Epoch [28/30]
+Learning Rate:2.000e-05   Train_Loss:15.460   Dev_loss:14.570   Test_Loss:13.329   Score:3.071   Time:0:00:15
+Learning Rate:2.000e-05   Train_Loss:15.873   Dev_loss:14.568   Test_Loss:13.296   Score:3.027   Time:0:00:15
+Learning Rate:2.000e-05   Train_Loss:15.081   Dev_loss:14.565   Test_Loss:13.489   Score:3.289   Time:0:00:15
+Learning Rate:2.000e-05   Train_Loss:16.873   Dev_loss:14.563   Test_Loss:13.320   Score:3.063   Time:0:00:15
+Learning Rate:2.000e-05   Train_Loss:15.309   Dev_loss:14.571   Test_Loss:13.276   Score:2.994   Time:0:00:15
+
+Epoch [29/30]
+Learning Rate:2.000e-05   Train_Loss:15.314   Dev_loss:14.559   Test_Loss:13.457   Score:3.230   Time:0:00:15
+Learning Rate:2.000e-05   Train_Loss:15.613   Dev_loss:14.560   Test_Loss:13.346   Score:3.070   Time:0:00:15
+Learning Rate:2.000e-05   Train_Loss:15.661   Dev_loss:14.557   Test_Loss:13.468   Score:3.252   Time:0:00:15
+Learning Rate:2.000e-05   Train_Loss:16.415   Dev_loss:14.553   Test_Loss:13.365   Score:3.130   Time:0:00:15
+Learning Rate:2.000e-05   Train_Loss:15.564   Dev_loss:14.570   Test_Loss:13.254   Score:2.985   Time:0:00:16
+*******STOP!!!********
+best_test_loss:13.20904921566718  best_score:2.6363547879562943
+------------calculate DTW distance------------
+------------calculate Frechet distance------------
+loss_list [13.20904921566718] score list [2.6363547879562943] acc list [0]

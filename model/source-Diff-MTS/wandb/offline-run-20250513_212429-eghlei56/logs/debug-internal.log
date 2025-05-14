@@ -1,0 +1,15 @@
+{"time":"2025-05-13T21:24:29.507317726+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/root/myWorkPlace/MTSDM/MTSDM/model/source-Diff-MTS/wandb/offline-run-20250513_212429-eghlei56/logs/debug-core.log"}
+{"time":"2025-05-13T21:24:29.620546459+08:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-05-13T21:24:29.620796981+08:00","level":"INFO","msg":"created new stream","id":"eghlei56"}
+{"time":"2025-05-13T21:24:29.62085456+08:00","level":"INFO","msg":"stream: started","id":"eghlei56"}
+{"time":"2025-05-13T21:24:29.620943698+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"eghlei56"}
+{"time":"2025-05-13T21:24:29.621014408+08:00","level":"INFO","msg":"sender: started","stream_id":"eghlei56"}
+{"time":"2025-05-13T21:24:29.621009476+08:00","level":"INFO","msg":"handler: started","stream_id":"eghlei56"}
+{"time":"2025-05-13T21:24:29.629809557+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-13T21:26:07.907319338+08:00","level":"INFO","msg":"stream: closing","id":"eghlei56"}
+{"time":"2025-05-13T21:26:07.907385961+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-13T21:26:07.90744701+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-13T21:26:07.907590211+08:00","level":"INFO","msg":"handler: closed","stream_id":"eghlei56"}
+{"time":"2025-05-13T21:26:07.907604825+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"eghlei56"}
+{"time":"2025-05-13T21:26:07.907658888+08:00","level":"INFO","msg":"sender: closed","stream_id":"eghlei56"}
+{"time":"2025-05-13T21:26:07.907789289+08:00","level":"INFO","msg":"stream: closed","id":"eghlei56"}

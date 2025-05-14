@@ -1,0 +1,14 @@
+{"time":"2025-02-17T17:37:24.950497006+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/root/myWorkPlace/diffmts/models/source-Diff-MTS/wandb/offline-run-20250217_173724-e2j0fhwj/logs/debug-core.log"}
+{"time":"2025-02-17T17:37:25.056315419+08:00","level":"INFO","msg":"created new stream","id":"e2j0fhwj"}
+{"time":"2025-02-17T17:37:25.056344691+08:00","level":"INFO","msg":"stream: started","id":"e2j0fhwj"}
+{"time":"2025-02-17T17:37:25.056366602+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"e2j0fhwj"}
+{"time":"2025-02-17T17:37:25.056421304+08:00","level":"INFO","msg":"sender: started","stream_id":"e2j0fhwj"}
+{"time":"2025-02-17T17:37:25.056436235+08:00","level":"INFO","msg":"handler: started","stream_id":"e2j0fhwj"}
+{"time":"2025-02-17T17:37:25.061051662+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-17T17:37:27.845389415+08:00","level":"INFO","msg":"stream: closing","id":"e2j0fhwj"}
+{"time":"2025-02-17T17:37:27.845411966+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-17T17:37:27.846219144+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-17T17:37:27.846302428+08:00","level":"INFO","msg":"handler: closed","stream_id":"e2j0fhwj"}
+{"time":"2025-02-17T17:37:27.846310958+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"e2j0fhwj"}
+{"time":"2025-02-17T17:37:27.846325739+08:00","level":"INFO","msg":"sender: closed","stream_id":"e2j0fhwj"}
+{"time":"2025-02-17T17:37:27.846475746+08:00","level":"INFO","msg":"stream: closed","id":"e2j0fhwj"}

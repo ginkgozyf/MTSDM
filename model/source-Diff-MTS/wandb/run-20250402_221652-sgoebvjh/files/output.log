@@ -1,0 +1,57 @@
+100%|██| 63/63 [00:03<00:00, 17.06it/s, epoch=0, loss: =1.1, img shape: =torch.Size([59, 14, 48]), LR=0.002]
+100%|█| 63/63 [00:03<00:00, 18.91it/s, epoch=1, loss: =0.2, img shape: =torch.Size([59, 14, 48]), LR=0.0025]
+100%|█| 63/63 [00:03<00:00, 20.05it/s, epoch=2, loss: =0.129, img shape: =torch.Size([59, 14, 48]), LR=0.003
+100%|█| 63/63 [00:03<00:00, 19.81it/s, epoch=3, loss: =0.119, img shape: =torch.Size([59, 14, 48]), LR=0.003
+100%|█| 63/63 [00:03<00:00, 20.79it/s, epoch=4, loss: =0.116, img shape: =torch.Size([59, 14, 48]), LR=0.004
+100%|█| 63/63 [00:03<00:00, 19.02it/s, epoch=5, loss: =0.113, img shape: =torch.Size([59, 14, 48]), LR=0.004
+100%|█| 63/63 [00:03<00:00, 19.58it/s, epoch=6, loss: =0.101, img shape: =torch.Size([59, 14, 48]), LR=0.005
+/root/miniconda3/lib/python3.8/site-packages/torch/optim/lr_scheduler.py:1063: UserWarning: To get the last learning rate computed by the scheduler, please use `get_last_lr()`.
+  _warn_get_lr_called_within_step(self)
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 19.11it/s, epoch=7, loss: =0.102, img shape: =torch.Size([59, 14, 48]), LR=0.005
+*******imporove!!!********
+100%|█| 63/63 [00:02<00:00, 22.03it/s, epoch=8, loss: =0.106, img shape: =torch.Size([59, 14, 48]), LR=0.005
+*******imporove!!!********
+100%|█| 63/63 [00:03<00:00, 19.10it/s, epoch=9, loss: =0.108, img shape: =torch.Size([59, 14, 48]), LR=0.004
+*******imporove!!!********
+100%|█| 63/63 [00:02<00:00, 22.13it/s, epoch=10, loss: =0.101, img shape: =torch.Size([59, 14, 48]), LR=0.00
+*******imporove!!!********
+100%|█| 63/63 [00:02<00:00, 21.26it/s, epoch=11, loss: =0.104, img shape: =torch.Size([59, 14, 48]), LR=0.00
+*******imporove!!!********
+ 49%|▍| 31/63 [00:01<00:01, 18.64it/s, epoch=12, loss: =0.102, img shape: =torch.Size([256, 14, 48]), LR=0.0
+Traceback (most recent call last):
+  File "MainCondition.py", line 48, in <module>
+    train(args,train_data,train_label)
+  File "/root/myWorkPlace/diffmts/models/source-Diff-MTS/DiffusionFreeGuidence/TrainCondition.py", line 58, in train
+    loss = trainer(x_0, labels).sum() / b ** 2.
+  File "/root/miniconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/root/miniconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/root/myWorkPlace/diffmts/models/source-Diff-MTS/DiffusionFreeGuidence/DiffusionCondition.py", line 102, in forward
+    pred_noise = self.model(x_t, t, labels)
+  File "/root/miniconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/root/miniconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/root/myWorkPlace/diffmts/models/source-Diff-MTS/DiffusionFreeGuidence/Unet1D_TD.py", line 491, in forward
+    x = block2(x, t, c)
+  File "/root/miniconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/root/miniconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/root/myWorkPlace/diffmts/models/source-Diff-MTS/DiffusionFreeGuidence/Unet1D_TD.py", line 238, in forward
+    h = self.block1(x, scale_shift = scale_shift)
+  File "/root/miniconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/root/miniconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/root/myWorkPlace/diffmts/models/source-Diff-MTS/DiffusionFreeGuidence/Unet1D_TD.py", line 206, in forward
+    x = self.proj(x)
+  File "/root/miniconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/root/miniconda3/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/root/myWorkPlace/diffmts/models/source-Diff-MTS/DiffusionFreeGuidence/Unet1D_TD.py", line 140, in forward
+    return F.conv1d(x, normalized_weight, self.bias, self.stride, self.padding, self.dilation, self.groups)
+KeyboardInterrupt

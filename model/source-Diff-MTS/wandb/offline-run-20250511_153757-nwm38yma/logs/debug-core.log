@@ -1,0 +1,13 @@
+{"time":"2025-05-11T15:37:54.831052808+08:00","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpymgv3g0f/port-18838.txt","pid":18838,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-05-11T15:37:54.832158228+08:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":18838}
+{"time":"2025-05-11T15:37:54.832136697+08:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":33539,"Zone":""}}
+{"time":"2025-05-11T15:37:55.009065279+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:58686"}
+{"time":"2025-05-11T15:37:57.174025292+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"nwm38yma","id":"127.0.0.1:58686"}
+{"time":"2025-05-11T15:37:57.28798574+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"nwm38yma","id":"127.0.0.1:58686"}
+{"time":"2025-05-11T15:42:38.819783715+08:00","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:58686"}
+{"time":"2025-05-11T15:42:38.819894023+08:00","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-05-11T15:42:38.81988488+08:00","level":"INFO","msg":"connection: closing","id":"127.0.0.1:58686"}
+{"time":"2025-05-11T15:42:38.820068661+08:00","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:58686"}
+{"time":"2025-05-11T15:42:38.8203561+08:00","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:58686"}
+{"time":"2025-05-11T15:42:38.820369589+08:00","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:58686"}
+{"time":"2025-05-11T15:42:38.820382319+08:00","level":"INFO","msg":"server is closed"}

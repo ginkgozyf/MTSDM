@@ -1,0 +1,15 @@
+{"time":"2025-05-13T20:27:17.339895476+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/root/myWorkPlace/MTSDM/MTSDM/model/source-Diff-MTS/wandb/offline-run-20250513_202717-bsqq3jl4/logs/debug-core.log"}
+{"time":"2025-05-13T20:27:17.455317287+08:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-05-13T20:27:17.455575259+08:00","level":"INFO","msg":"created new stream","id":"bsqq3jl4"}
+{"time":"2025-05-13T20:27:17.455630392+08:00","level":"INFO","msg":"stream: started","id":"bsqq3jl4"}
+{"time":"2025-05-13T20:27:17.455695834+08:00","level":"INFO","msg":"handler: started","stream_id":"bsqq3jl4"}
+{"time":"2025-05-13T20:27:17.455692959+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"bsqq3jl4"}
+{"time":"2025-05-13T20:27:17.45575521+08:00","level":"INFO","msg":"sender: started","stream_id":"bsqq3jl4"}
+{"time":"2025-05-13T20:27:17.466042229+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-13T20:28:19.108549697+08:00","level":"INFO","msg":"stream: closing","id":"bsqq3jl4"}
+{"time":"2025-05-13T20:28:19.108618926+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-13T20:28:19.108680258+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-13T20:28:19.108859762+08:00","level":"INFO","msg":"handler: closed","stream_id":"bsqq3jl4"}
+{"time":"2025-05-13T20:28:19.108901869+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"bsqq3jl4"}
+{"time":"2025-05-13T20:28:19.108926096+08:00","level":"INFO","msg":"sender: closed","stream_id":"bsqq3jl4"}
+{"time":"2025-05-13T20:28:19.109096316+08:00","level":"INFO","msg":"stream: closed","id":"bsqq3jl4"}

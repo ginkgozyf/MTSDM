@@ -1,0 +1,47 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.10.13",
+    "heartbeatAt": "2024-11-26T16:53:58.092401",
+    "startedAt": "2024-11-26T16:53:57.991225",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "e:\\Code\\01Code-for-paper\\\u5f00\u6e90\\\u5f00\u6e90diff_mixtype\\MainCondition.py",
+    "codePathLocal": "MainCondition.py",
+    "codePath": "MainCondition.py",
+    "host": "DESKTOP-104OCLS",
+    "username": "whtttt",
+    "executable": "d:\\ProgramData\\anaconda3\\envs\\torch\\python.exe",
+    "cpu_count": 16,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 3401.0,
+        "min": 0.0,
+        "max": 3401.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3401.0,
+            "min": 0.0,
+            "max": 3401.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 7452.019527435303,
+            "used": 362.91280364990234
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 25769803776
+        }
+    ],
+    "memory": {
+        "total": 63.92628479003906
+    }
+}

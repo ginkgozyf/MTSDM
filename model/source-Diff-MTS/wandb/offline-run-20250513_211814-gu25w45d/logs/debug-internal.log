@@ -1,0 +1,15 @@
+{"time":"2025-05-13T21:18:14.927861976+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/root/myWorkPlace/MTSDM/MTSDM/model/source-Diff-MTS/wandb/offline-run-20250513_211814-gu25w45d/logs/debug-core.log"}
+{"time":"2025-05-13T21:18:15.03949489+08:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-05-13T21:18:15.039756651+08:00","level":"INFO","msg":"created new stream","id":"gu25w45d"}
+{"time":"2025-05-13T21:18:15.039806133+08:00","level":"INFO","msg":"stream: started","id":"gu25w45d"}
+{"time":"2025-05-13T21:18:15.039887569+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"gu25w45d"}
+{"time":"2025-05-13T21:18:15.039900932+08:00","level":"INFO","msg":"sender: started","stream_id":"gu25w45d"}
+{"time":"2025-05-13T21:18:15.039960109+08:00","level":"INFO","msg":"handler: started","stream_id":"gu25w45d"}
+{"time":"2025-05-13T21:18:15.047875082+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-13T21:19:16.119124483+08:00","level":"INFO","msg":"stream: closing","id":"gu25w45d"}
+{"time":"2025-05-13T21:19:16.119223062+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-13T21:19:16.119319934+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-13T21:19:16.119504132+08:00","level":"INFO","msg":"handler: closed","stream_id":"gu25w45d"}
+{"time":"2025-05-13T21:19:16.119521345+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"gu25w45d"}
+{"time":"2025-05-13T21:19:16.119534727+08:00","level":"INFO","msg":"sender: closed","stream_id":"gu25w45d"}
+{"time":"2025-05-13T21:19:16.119683986+08:00","level":"INFO","msg":"stream: closed","id":"gu25w45d"}

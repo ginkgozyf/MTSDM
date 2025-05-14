@@ -1,0 +1,15 @@
+{"time":"2025-05-11T15:37:57.179494188+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/root/myWorkPlace/MTSDM/MTSDM/model/source-Diff-MTS/wandb/offline-run-20250511_153757-nwm38yma/logs/debug-core.log"}
+{"time":"2025-05-11T15:37:57.28775401+08:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-05-11T15:37:57.28794454+08:00","level":"INFO","msg":"created new stream","id":"nwm38yma"}
+{"time":"2025-05-11T15:37:57.28797931+08:00","level":"INFO","msg":"stream: started","id":"nwm38yma"}
+{"time":"2025-05-11T15:37:57.28801522+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"nwm38yma"}
+{"time":"2025-05-11T15:37:57.288078287+08:00","level":"INFO","msg":"handler: started","stream_id":"nwm38yma"}
+{"time":"2025-05-11T15:37:57.28814786+08:00","level":"INFO","msg":"sender: started","stream_id":"nwm38yma"}
+{"time":"2025-05-11T15:37:57.292772245+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-11T15:42:38.819941927+08:00","level":"INFO","msg":"stream: closing","id":"nwm38yma"}
+{"time":"2025-05-11T15:42:38.819982446+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-11T15:42:38.820017813+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-11T15:42:38.820120488+08:00","level":"INFO","msg":"handler: closed","stream_id":"nwm38yma"}
+{"time":"2025-05-11T15:42:38.820140845+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"nwm38yma"}
+{"time":"2025-05-11T15:42:38.820156122+08:00","level":"INFO","msg":"sender: closed","stream_id":"nwm38yma"}
+{"time":"2025-05-11T15:42:38.820263502+08:00","level":"INFO","msg":"stream: closed","id":"nwm38yma"}

@@ -1,0 +1,15 @@
+{"time":"2025-05-11T15:23:32.300855846+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/root/myWorkPlace/MTSDM/MTSDM/model/source-Diff-MTS/wandb/offline-run-20250511_152332-eifc21at/logs/debug-core.log"}
+{"time":"2025-05-11T15:23:32.413381245+08:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-05-11T15:23:32.413677371+08:00","level":"INFO","msg":"created new stream","id":"eifc21at"}
+{"time":"2025-05-11T15:23:32.413718904+08:00","level":"INFO","msg":"stream: started","id":"eifc21at"}
+{"time":"2025-05-11T15:23:32.413765193+08:00","level":"INFO","msg":"sender: started","stream_id":"eifc21at"}
+{"time":"2025-05-11T15:23:32.413759321+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"eifc21at"}
+{"time":"2025-05-11T15:23:32.41376427+08:00","level":"INFO","msg":"handler: started","stream_id":"eifc21at"}
+{"time":"2025-05-11T15:23:32.418585156+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-11T15:23:33.421078675+08:00","level":"INFO","msg":"stream: closing","id":"eifc21at"}
+{"time":"2025-05-11T15:23:33.421165143+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-11T15:23:33.42123628+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-11T15:23:33.42141843+08:00","level":"INFO","msg":"handler: closed","stream_id":"eifc21at"}
+{"time":"2025-05-11T15:23:33.421431848+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"eifc21at"}
+{"time":"2025-05-11T15:23:33.421443665+08:00","level":"INFO","msg":"sender: closed","stream_id":"eifc21at"}
+{"time":"2025-05-11T15:23:33.421576244+08:00","level":"INFO","msg":"stream: closed","id":"eifc21at"}

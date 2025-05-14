@@ -1,0 +1,41 @@
+{
+  "os": "Linux-5.4.0-162-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.12.3",
+  "startedAt": "2025-05-12T07:14:18.448487Z",
+  "program": "/root/myWorkPlace/MTSDM/MTSDM/model/source-Diff-MTS/MainCondition.py",
+  "codePath": "model/source-Diff-MTS/MainCondition.py",
+  "git": {
+    "remote": "https://github.com/ginkgozyf/MTSDM.git",
+    "commit": "9b3c361e453c8fab343d9b59416e7e7a5cc9b16a"
+  },
+  "root": "/root/myWorkPlace/MTSDM/MTSDM/model/source-Diff-MTS",
+  "host": "autodl-container-a6a5469b1c-6aad6ce6",
+  "executable": "/root/miniconda3/bin/python",
+  "codePathLocal": "MainCondition.py",
+  "cpu_count": 24,
+  "cpu_count_logical": 48,
+  "gpu": "NVIDIA GeForce RTX 3080 Ti",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "32212254720",
+      "used": "3858558976"
+    }
+  },
+  "memory": {
+    "total": "472735358976"
+  },
+  "cpu": {
+    "count": 24,
+    "countLogical": 48
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3080 Ti",
+      "memoryTotal": "12884901888",
+      "cudaCores": 10240,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.2"
+}

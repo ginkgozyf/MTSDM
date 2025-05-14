@@ -1,0 +1,13 @@
+{"time":"2025-05-11T15:23:29.051112228+08:00","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpb_wdp0s9/port-16953.txt","pid":16953,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-05-11T15:23:29.053384753+08:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":16953}
+{"time":"2025-05-11T15:23:29.053392614+08:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":37083,"Zone":""}}
+{"time":"2025-05-11T15:23:29.231360338+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:56800"}
+{"time":"2025-05-11T15:23:32.295095934+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"eifc21at","id":"127.0.0.1:56800"}
+{"time":"2025-05-11T15:23:32.413730177+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"eifc21at","id":"127.0.0.1:56800"}
+{"time":"2025-05-11T15:23:33.420807042+08:00","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:56800"}
+{"time":"2025-05-11T15:23:33.42098989+08:00","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-05-11T15:23:33.420958015+08:00","level":"INFO","msg":"connection: closing","id":"127.0.0.1:56800"}
+{"time":"2025-05-11T15:23:33.421124575+08:00","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:56800"}
+{"time":"2025-05-11T15:23:33.421722642+08:00","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:56800"}
+{"time":"2025-05-11T15:23:33.421758958+08:00","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:56800"}
+{"time":"2025-05-11T15:23:33.421778734+08:00","level":"INFO","msg":"server is closed"}

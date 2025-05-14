@@ -1,0 +1,23 @@
+2025-05-13 20:57:50,903 INFO    MainThread:26682 [wandb_setup.py:_flush():70] Current SDK version is 0.19.11
+2025-05-13 20:57:50,903 INFO    MainThread:26682 [wandb_setup.py:_flush():70] Configure stats pid to 26682
+2025-05-13 20:57:50,903 INFO    MainThread:26682 [wandb_setup.py:_flush():70] Loading settings from /root/.config/wandb/settings
+2025-05-13 20:57:50,903 INFO    MainThread:26682 [wandb_setup.py:_flush():70] Loading settings from /root/myWorkPlace/MTSDM/MTSDM/model/source-Diff-MTS/wandb/settings
+2025-05-13 20:57:50,903 INFO    MainThread:26682 [wandb_setup.py:_flush():70] Loading settings from environment variables
+2025-05-13 20:57:50,903 INFO    MainThread:26682 [wandb_init.py:setup_run_log_directory():724] Logging user logs to /root/myWorkPlace/MTSDM/MTSDM/model/source-Diff-MTS/wandb/offline-run-20250513_205750-7hf5p9kg/logs/debug.log
+2025-05-13 20:57:50,904 INFO    MainThread:26682 [wandb_init.py:setup_run_log_directory():725] Logging internal logs to /root/myWorkPlace/MTSDM/MTSDM/model/source-Diff-MTS/wandb/offline-run-20250513_205750-7hf5p9kg/logs/debug-internal.log
+2025-05-13 20:57:50,904 INFO    MainThread:26682 [wandb_init.py:init():852] calling init triggers
+2025-05-13 20:57:50,904 INFO    MainThread:26682 [wandb_init.py:init():857] wandb.init called with sweep_config: {}
+config: {'model_name': 'DiffUnet', 'embedding': 48, 'hidden': 64, 'num_head': 1, 'num_encoder': 1, 'lstm_hidden': 64, 'num_layers': 1, 'epoch': 50, 'eva_epoch': 30, 'batch_size': 64, 'optimizer': 'adam', 'lr': 0.002, 'lr_type': 'multistep', 'grad_clip': 1.0, 'multiplier': 2.5, 'schedule_name': 'linear', 'loss_type': 'mse', 'sample_type': 'ddpm', 'input_size': 14, 'output_size': 1, 'window_size': 48, 'dropout': 0.05, 'arch': 'att+td', 'dataset': 'FD001', 'state': 'train', 'T': 500, 'w': 0.2, 'device': device(type='cuda'), 'model_path': './weights/temp.pth', 'save_path': './weights/lstm_temp.pth', 'syndata_path': './weights/syn_data/temp.npy', '_wandb': {}}
+2025-05-13 20:57:50,904 INFO    MainThread:26682 [wandb_init.py:init():893] starting backend
+2025-05-13 20:57:50,904 INFO    MainThread:26682 [wandb_init.py:init():897] sending inform_init request
+2025-05-13 20:57:50,910 INFO    MainThread:26682 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-05-13 20:57:50,910 INFO    MainThread:26682 [wandb_init.py:init():907] backend started and connected
+2025-05-13 20:57:50,913 INFO    MainThread:26682 [wandb_init.py:init():1005] updated telemetry
+2025-05-13 20:57:50,918 INFO    MainThread:26682 [wandb_init.py:init():1029] communicating run to backend with 90.0 second timeout
+2025-05-13 20:57:51,036 INFO    MainThread:26682 [wandb_init.py:init():1104] starting run threads in backend
+2025-05-13 20:57:51,200 INFO    MainThread:26682 [wandb_run.py:_console_start():2573] atexit reg
+2025-05-13 20:57:51,201 INFO    MainThread:26682 [wandb_run.py:_redirect():2421] redirect: wrap_raw
+2025-05-13 20:57:51,201 INFO    MainThread:26682 [wandb_run.py:_redirect():2490] Wrapping output streams.
+2025-05-13 20:57:51,201 INFO    MainThread:26682 [wandb_run.py:_redirect():2513] Redirects installed.
+2025-05-13 20:57:51,202 INFO    MainThread:26682 [wandb_init.py:init():1150] run started, returning control to user process
+2025-05-13 20:58:58,484 INFO    MsgRouterThr:26682 [mailbox.py:close():129] [no run ID] Closing mailbox, abandoning 0 handles.

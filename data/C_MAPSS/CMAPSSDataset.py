@@ -1,3 +1,5 @@
+import os
+os.chdir('/root/myWorkPlace/MTSDM/MTSDM')
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler,MinMaxScaler
@@ -33,7 +35,7 @@ class CMAPSSDataset():
         # self.feature_columns=sensor_columns  # 21 sensors
         
         # read train_FD00x
-        data = pd.read_csv("data/train_" + fd_number + ".txt", delimiter="\s+", header=None)
+        data = pd.read_csv("data/C_MAPSS/train_" + fd_number + ".txt", delimiter="\s+", header=None)
         data.columns = columns
         self.engine_size = max(data['id'])
 
@@ -56,9 +58,9 @@ class CMAPSSDataset():
         self.train_data = join_data.reindex(columns=data.columns)
         
         # Read the test dataset by the RUL_FD00x.txt file.
-        test_data = pd.read_csv("data/test_" + fd_number + ".txt", delimiter="\s+", header=None)
+        test_data = pd.read_csv("data/C_MAPSS/test_" + fd_number + ".txt", delimiter="\s+", header=None)
         test_data.columns = columns
-        truth_data = pd.read_csv("data/RUL_" + fd_number + ".txt", delimiter="\s+", header=None)
+        truth_data = pd.read_csv("data/C_MAPSS/RUL_" + fd_number + ".txt", delimiter="\s+", header=None)
         truth_data.columns = ['truth']
         truth_data['id'] = truth_data.index + 1
         
@@ -188,7 +190,9 @@ if __name__ == "__main__":
     train_data = datasets.get_train_data()
     train_feature_slice = datasets.get_feature_slice(train_data)
     train_label_slice = datasets.get_label_slice(train_data)
-    
+    print("train_feature_slice.shape: {}".format(train_feature_slice.shape))
+    print("train_label_slice.shape: {}".format(train_label_slice.shape))
+    print("train_data.shape: {}".format(train_data.shape))
     # valid_feature_slice = datasets.get_valid_feature_slice(train_data)
     # valid_label_slice = datasets.get_valid_label_slice(train_data)
     

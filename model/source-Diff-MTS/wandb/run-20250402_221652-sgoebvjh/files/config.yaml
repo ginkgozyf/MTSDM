@@ -1,0 +1,93 @@
+_wandb:
+    value:
+        cli_version: 0.19.9
+        m: []
+        python_version: 3.8.10
+        t:
+            "1":
+                - 1
+                - 5
+                - 9
+                - 53
+                - 55
+                - 103
+            "2":
+                - 1
+                - 5
+                - 9
+                - 53
+                - 55
+                - 103
+            "3":
+                - 15
+                - 16
+                - 23
+                - 55
+            "4": 3.8.10
+            "5": 0.19.9
+            "8":
+                - 5
+            "12": 0.19.9
+            "13": linux-x86_64
+T:
+    value: 500
+arch:
+    value: att+td
+batch_size:
+    value: 64
+dataset:
+    value: FD001
+device:
+    value: cuda
+dropout:
+    value: 0.05
+embedding:
+    value: 48
+epoch:
+    value: 50
+eva_epoch:
+    value: 30
+grad_clip:
+    value: 1
+hidden:
+    value: 64
+input_size:
+    value: 14
+loss_type:
+    value: mse
+lr:
+    value: 0.002
+lr_type:
+    value: multistep
+lstm_hidden:
+    value: 64
+model_name:
+    value: DiffUnet
+model_path:
+    value: ./weights/temp.pth
+multiplier:
+    value: 2.5
+num_encoder:
+    value: 1
+num_head:
+    value: 1
+num_layers:
+    value: 1
+optimizer:
+    value: adam
+output_size:
+    value: 1
+sample_type:
+    value: ddpm
+save_path:
+    value: ./weights/lstm_temp.pth
+schedule_name:
+    value: linear
+state:
+    value: all
+syndata_path:
+    value: ./weights/syn_data/temp.npy
+w:
+    value: 0.2
+window_size:
+    value: 48

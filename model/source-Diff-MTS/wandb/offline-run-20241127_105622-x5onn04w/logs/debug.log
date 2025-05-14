@@ -1,0 +1,25 @@
+2024-11-27 10:56:22,813 INFO    MainThread:48544 [wandb_setup.py:_flush():76] Current SDK version is 0.16.3
+2024-11-27 10:56:22,813 INFO    MainThread:48544 [wandb_setup.py:_flush():76] Configure stats pid to 48544
+2024-11-27 10:56:22,813 INFO    MainThread:48544 [wandb_setup.py:_flush():76] Loading settings from C:\Users\Administrator\.config\wandb\settings
+2024-11-27 10:56:22,813 INFO    MainThread:48544 [wandb_setup.py:_flush():76] Loading settings from E:\Code\01Code-for-paper\开源\开源diff_mixtype\wandb\settings
+2024-11-27 10:56:22,813 INFO    MainThread:48544 [wandb_setup.py:_flush():76] Loading settings from environment variables: {'mode': 'offline'}
+2024-11-27 10:56:22,813 INFO    MainThread:48544 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-11-27 10:56:22,814 INFO    MainThread:48544 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'MainCondition.py', 'program_abspath': 'E:\\Code\\01Code-for-paper\\开源\\开源diff_mixtype\\MainCondition.py', 'program': 'E:\\Code\\01Code-for-paper\\开源\\开源diff_mixtype\\MainCondition.py'}
+2024-11-27 10:56:22,814 INFO    MainThread:48544 [wandb_init.py:_log_setup():526] Logging user logs to E:\Code\01Code-for-paper\开源\开源diff_mixtype\wandb\offline-run-20241127_105622-x5onn04w\logs\debug.log
+2024-11-27 10:56:22,814 INFO    MainThread:48544 [wandb_init.py:_log_setup():527] Logging internal logs to E:\Code\01Code-for-paper\开源\开源diff_mixtype\wandb\offline-run-20241127_105622-x5onn04w\logs\debug-internal.log
+2024-11-27 10:56:22,814 INFO    MainThread:48544 [wandb_init.py:init():566] calling init triggers
+2024-11-27 10:56:22,814 INFO    MainThread:48544 [wandb_init.py:init():573] wandb.init called with sweep_config: {}
+config: {'model_name': 'DiffUnet', 'embedding': 48, 'hidden': 64, 'num_head': 1, 'num_encoder': 1, 'lstm_hidden': 64, 'num_layers': 1, 'epoch': 50, 'eva_epoch': 30, 'batch_size': 64, 'optimizer': 'adam', 'lr': 0.002, 'lr_type': 'multistep', 'grad_clip': 1.0, 'multiplier': 2.5, 'schedule_name': 'linear', 'loss_type': 'mse', 'sample_type': 'ddpm', 'input_size': 14, 'output_size': 1, 'window_size': 48, 'dropout': 0.05, 'arch': 'att+td', 'dataset': 'FD001', 'state': 'all', 'T': 500, 'w': 1.8, 'device': device(type='cuda'), 'model_path': './weights/temp.pth', 'save_path': './weights/lstm_temp.pth', 'syndata_path': './weights/syn_data/temp.npy'}
+2024-11-27 10:56:22,814 INFO    MainThread:48544 [wandb_init.py:init():616] starting backend
+2024-11-27 10:56:22,814 INFO    MainThread:48544 [wandb_init.py:init():620] setting up manager
+2024-11-27 10:56:22,816 INFO    MainThread:48544 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn, using: spawn
+2024-11-27 10:56:22,818 INFO    MainThread:48544 [wandb_init.py:init():628] backend started and connected
+2024-11-27 10:56:22,823 INFO    MainThread:48544 [wandb_init.py:init():720] updated telemetry
+2024-11-27 10:56:22,825 INFO    MainThread:48544 [wandb_init.py:init():753] communicating run to backend with 90.0 second timeout
+2024-11-27 10:56:22,828 INFO    MainThread:48544 [wandb_init.py:init():804] starting run threads in backend
+2024-11-27 10:56:28,594 INFO    MainThread:48544 [wandb_run.py:_console_start():2241] atexit reg
+2024-11-27 10:56:28,594 INFO    MainThread:48544 [wandb_run.py:_redirect():2096] redirect: wrap_raw
+2024-11-27 10:56:28,594 INFO    MainThread:48544 [wandb_run.py:_redirect():2161] Wrapping output streams.
+2024-11-27 10:56:28,594 INFO    MainThread:48544 [wandb_run.py:_redirect():2186] Redirects installed.
+2024-11-27 10:56:28,595 INFO    MainThread:48544 [wandb_init.py:init():847] run started, returning control to user process
+2024-11-27 11:00:33,461 WARNING MsgRouterThr:48544 [router.py:message_loop():77] message_loop has been closed

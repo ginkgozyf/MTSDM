@@ -1,0 +1,13 @@
+{"time":"2025-05-11T10:47:47.95170547+08:00","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpukup2elu/port-8769.txt","pid":8769,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-05-11T10:47:47.952862701+08:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":8769}
+{"time":"2025-05-11T10:47:47.952866814+08:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":42827,"Zone":""}}
+{"time":"2025-05-11T10:47:48.136050566+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:60208"}
+{"time":"2025-05-11T10:47:54.761759278+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"dl6k6855","id":"127.0.0.1:60208"}
+{"time":"2025-05-11T10:47:55.482022819+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"dl6k6855","id":"127.0.0.1:60208"}
+{"time":"2025-05-11T10:53:45.301780104+08:00","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:60208"}
+{"time":"2025-05-11T10:53:45.301862541+08:00","level":"INFO","msg":"connection: closing","id":"127.0.0.1:60208"}
+{"time":"2025-05-11T10:53:45.301899311+08:00","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-05-11T10:53:45.302023049+08:00","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:60208"}
+{"time":"2025-05-11T10:53:45.302389678+08:00","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:60208"}
+{"time":"2025-05-11T10:53:45.302415349+08:00","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:60208"}
+{"time":"2025-05-11T10:53:45.302438608+08:00","level":"INFO","msg":"server is closed"}

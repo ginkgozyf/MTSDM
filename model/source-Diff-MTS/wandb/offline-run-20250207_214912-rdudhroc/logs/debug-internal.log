@@ -1,0 +1,14 @@
+{"time":"2025-02-07T21:49:12.908975237+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/root/myWorkPlace/diffmts/models/source-Diff-MTS/wandb/offline-run-20250207_214912-rdudhroc/logs/debug-core.log"}
+{"time":"2025-02-07T21:49:13.018193828+08:00","level":"INFO","msg":"created new stream","id":"rdudhroc"}
+{"time":"2025-02-07T21:49:13.018246046+08:00","level":"INFO","msg":"stream: started","id":"rdudhroc"}
+{"time":"2025-02-07T21:49:13.018256966+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"rdudhroc"}
+{"time":"2025-02-07T21:49:13.018266561+08:00","level":"INFO","msg":"handler: started","stream_id":"rdudhroc"}
+{"time":"2025-02-07T21:49:13.01829015+08:00","level":"INFO","msg":"sender: started","stream_id":"rdudhroc"}
+{"time":"2025-02-07T21:49:13.022236726+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-07T21:54:52.030622591+08:00","level":"INFO","msg":"stream: closing","id":"rdudhroc"}
+{"time":"2025-02-07T21:54:52.030666807+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-07T21:54:52.031788275+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-07T21:54:52.031907544+08:00","level":"INFO","msg":"handler: closed","stream_id":"rdudhroc"}
+{"time":"2025-02-07T21:54:52.031918485+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"rdudhroc"}
+{"time":"2025-02-07T21:54:52.031944736+08:00","level":"INFO","msg":"sender: closed","stream_id":"rdudhroc"}
+{"time":"2025-02-07T21:54:52.032158314+08:00","level":"INFO","msg":"stream: closed","id":"rdudhroc"}
